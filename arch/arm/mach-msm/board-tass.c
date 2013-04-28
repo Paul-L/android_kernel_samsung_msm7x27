@@ -106,7 +106,7 @@
 #else
 #define MSM_FB_SIZE    0xA0000 // 0x238000 // 0x500000 //0x11C000 //0x5DC00 
 #endif
-+//#define MSM_GPU_PHYS_SIZE   SZ_2M
+//#define MSM_GPU_PHYS_SIZE   SZ_2M
 #define PMEM_KERNEL_EBI1_SIZE 	0x1C000 
 #endif	// CONFIG_MACH_TASS
 #endif	// CONFIG_ARCH_MSM7X27
